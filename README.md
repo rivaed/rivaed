@@ -1,4 +1,4 @@
-# Olá! Eu sou Riva 👋
+# Olá! Eu sou o Riva 👋
 
 ### 👨‍💻 Sobre Mim
 Sou um profissional de Cibersegurança e Analista de Segurança da Informação, atualmente em transição de carreira para **Engenharia de DevSecOps**.
@@ -14,7 +14,7 @@ Meu foco é integrar a segurança ("Sec") diretamente no ciclo de vida do desenv
 Estes são os projetos que demonstram meu foco atual:
 
 **1. Projeto: O Pipeline Guardião (CI/CD Seguro)**
-* **Repositório:** `rivaed/site-rivaed` 
+* **Repositório:** `rivaed/portfolio-react-spa` 
 * **O que faz:** Um pipeline de CI/CD no GitHub Actions que escaneia automaticamente uma aplicação React.
 * **Ferramentas:** `CodeQL` (SAST), `Snyk` (SCA), `Dependabot`.
 
