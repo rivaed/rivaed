@@ -1,7 +1,7 @@
 # Olá! Eu sou o Riva 👋
 
 ### 👨‍💻 Sobre Mim
-Sou um profissional de Cibersegurança e Analista de Segurança da Informação, atualmente em transição de carreira para **Engenharia de DevSecOps**.
+Sou um profissional de DevSecOps.
 
 Meu foco é integrar a segurança ("Sec") diretamente no ciclo de vida do desenvolvimento e operações ("DevOps"), automatizando a infraestrutura, garantindo a segurança de pipelines e monitorando o ambiente em produção.
 
